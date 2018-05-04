@@ -2,7 +2,7 @@
 
 ViewerJS combines a number of excellent open source tools that are built on HTML and javascript.
 
-##### Forked from [ViewerJS](https://github.com/kogmbh/ViewerJS/)
+#### Forked from [ViewerJS](https://github.com/kogmbh/ViewerJS/)
 * Project homepage : [ViewerJS](http://viewerjs.org/)
 * Live demos : [ViewerJS Examples](http://viewerjs.org/examples/)
 
